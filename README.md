@@ -6,5 +6,6 @@ OpenGL is special because it communicates directly with your computer's graphics
 Sample of simulation being ran. 1 second realtime = 1 hour in simulation
 
 
-https://user-images.githubusercontent.com/33961834/199810941-4ebe9c0e-60bb-442f-bd1d-3a599aed9bf4.mp4
+
+https://user-images.githubusercontent.com/33961834/199811018-a8ace6ac-e3f5-4a03-87f5-c2f23b560a1b.mp4
 
